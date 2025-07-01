@@ -1,0 +1,2 @@
+# 2FA_verification_tool
+一款用于生成2FA验证码的工具，使用于各种平台下的2FA双重因素验证
